@@ -1,6 +1,6 @@
 # ==============================================================================
 # Tool: Ultimate Scientific PCAPNG Forensic & Threat Analyzer with Remediation
-# Author: nu11secur1tyAI
+# Author: nu11secur1ty
 # Description: Performs exhaustive deep packet inspection across Layers 2-7,
 #              extracting granular parameters and injecting comprehensive 
 #              remediation, risk assessment, and defensive documentation in English.
