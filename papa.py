@@ -43,7 +43,7 @@ def create_html_report(pcap_path, output_html_path):
     <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>nu11secur1tyAI - Ultimate Forensic Traffic & Threat Analysis Report</title>
+        <title>nu11secur1tyAI by nu11secur1ty - Ultimate Forensic Traffic & Threat Analysis Report</title>
         <style>
             body {{
                 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
