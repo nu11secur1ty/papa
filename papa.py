@@ -455,7 +455,7 @@ def create_html_report(pcap_path, output_html_path):
 
     html_content += """
             <div class="footer">
-                Generated automatically by nu11secur1tyAI Ultimate Forensic Deep Intelligence Engine.
+                Generated automatically by nu11secur1tyAI Ultimate Forensic Deep Intelligence Engine by nu11secur1ty.
             </div>
         </div>
     </body>
