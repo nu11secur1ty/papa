@@ -158,7 +158,7 @@ def create_html_report(pcap_path, output_html_path):
     </head>
     <body>
         <div class="container">
-            <h1>nu11secur1tyAI - Ultimate Scientific Forensic & Threat Analysis Report</h1>
+            <h1>nu11secur1tyAI by nu11secur1ty - Ultimate Scientific Forensic & Threat Analysis Report</h1>
             <div class="meta">
                 <strong>File Name:</strong> {os.path.basename(pcap_path)}<br>
                 <strong>Capture Timestamp:</strong> {capture_time}<br>
