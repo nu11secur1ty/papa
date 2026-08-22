@@ -163,7 +163,7 @@ def create_html_report(pcap_path, output_html_path):
                 <strong>File Name:</strong> {os.path.basename(pcap_path)}<br>
                 <strong>Capture Timestamp:</strong> {capture_time}<br>
                 <strong>Total Packets Scanned:</strong> {len(packets)}<br>
-                <strong>Engine:</strong> nu11secur1tyAI Ultimate Forensic Deep Intelligence Engine
+                <strong>Engine:</strong> nu11secur1tyAI by nu11secur1ty Ultimate Forensic Deep Intelligence Engine
             </div>
 
             <!-- Color-Coded Severity Legend -->
