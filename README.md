@@ -3,7 +3,7 @@
 
 # Usage:
 
-- Put your `.pcapng` file into the directory of papa
+- Put your `.pcapng` file into the directory of pastokrapacefleciks
 ```
 python .\pastokrapacefleciks.py
 python3 .\pastokrapacefleciks.py
