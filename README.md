@@ -5,7 +5,7 @@
 
 - Put your `.pcapng` file into the directory of papa
 ```
-python .\papa.py
-python3 .\papa.py
+python .\pastokrapacefleciks.py
+python3 .\pastokrapacefleciks.py
 ```
 - Check your `HTML` report
